@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "cm+9orVPl3WqXfgXvCn2bypopmwloQ18JM/THP+Pde5AxoYPMHAklEbF9JCvYws8WXGPAWL4rvAuJw+gy143wQ==",
+  "dgSpecHash": "uBSs+nNm/+IAVrydpATFsH35H6BET3eh9G3zslgYHhBmLoLYhHu/UKmrubZMn+dcoLSHukecEIsYnjCtCGEcmg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nnh24\\workspace02\\DesignPattern\\FactoryMethod\\FactoryMethod.csproj",
+  "projectFilePath": "C:\\Users\\nnh24\\workspace02\\design-patterns\\FactoryMethod\\FactoryMethod.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

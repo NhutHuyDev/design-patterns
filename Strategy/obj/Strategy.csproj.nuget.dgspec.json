@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\nnh24\\workspace02\\DesignPattern\\Strategy\\Strategy.csproj": {}
+    "C:\\Users\\nnh24\\workspace02\\design-patterns\\Strategy\\Strategy.csproj": {}
   },
   "projects": {
-    "C:\\Users\\nnh24\\workspace02\\DesignPattern\\Strategy\\Strategy.csproj": {
+    "C:\\Users\\nnh24\\workspace02\\design-patterns\\Strategy\\Strategy.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\nnh24\\workspace02\\DesignPattern\\Strategy\\Strategy.csproj",
+        "projectUniqueName": "C:\\Users\\nnh24\\workspace02\\design-patterns\\Strategy\\Strategy.csproj",
         "projectName": "Strategy",
-        "projectPath": "C:\\Users\\nnh24\\workspace02\\DesignPattern\\Strategy\\Strategy.csproj",
+        "projectPath": "C:\\Users\\nnh24\\workspace02\\design-patterns\\Strategy\\Strategy.csproj",
         "packagesPath": "C:\\Users\\nnh24\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\nnh24\\workspace02\\DesignPattern\\Strategy\\obj\\",
+        "outputPath": "C:\\Users\\nnh24\\workspace02\\design-patterns\\Strategy\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\nnh24\\AppData\\Roaming\\NuGet\\NuGet.Config",

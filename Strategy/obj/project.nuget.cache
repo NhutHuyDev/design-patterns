@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "OsSitNf+vaJku0u8CXjvl1iGjEf071HROyCo0IZPVb1zMsEVQTeR6DJo0rWeeDtbthM/sKmi0IycQ7rcr12rrQ==",
+  "dgSpecHash": "UZQldj0S5dMRATp5kc14LcIwWUB0dQssO82jhr7jM3UK1z64P7XXohC2oRAEoSFnFwOBOfNAhE3uYUX9YjLWDw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\nnh24\\workspace02\\DesignPattern\\Strategy\\Strategy.csproj",
+  "projectFilePath": "C:\\Users\\nnh24\\workspace02\\design-patterns\\Strategy\\Strategy.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }
