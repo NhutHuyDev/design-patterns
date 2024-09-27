@@ -1,4 +1,4 @@
-# Stategy Pattern 
+# Design Pattern 
 Main reference: https://refactoring.guru/design-patterns
 ## Creational Patterns
 Nhóm này liên quan đến cách thức khởi tạo đối tượng.
