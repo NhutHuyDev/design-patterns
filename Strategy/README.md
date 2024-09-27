@@ -1,13 +1,13 @@
 # Stategy Pattern 
-Main reference: https://refactoring.guru/design-patterns
 ## Creational Patterns
 Nhóm này liên quan đến cách thức khởi tạo đối tượng.
-- [Singeton](./)
-- [Factory Method](./)
-- [Abstract Factory](./)
+- Singeton
+- Factory Method
+- Abstract Factory
 ## Structural Patterns
 Nhóm này liên quan đến cách tổ chức các class và đối tượng để tạo thành các cấu trúc lớn hơn.
-- [Decorator](./)
+- Decorator
+
 ## Behavioral Patterns
 Nhóm này liên quan đến cách các đối tượng giao tiếp và tương tác với nhau.
-- [Strategy](./Strategy/README.md)
+- Strategy
