@@ -1,0 +1,15 @@
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.exe
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.deps.json
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.runtimeconfig.json
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.dll
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\bin\Debug\net8.0\AbstractFactory.pdb
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfoInputs.cache
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.AssemblyInfo.cs
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.csproj.CoreCompileInputs.cache
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.sourcelink.json
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.dll
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\refint\AbstractFactory.dll
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.pdb
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\AbstractFactory.genruntimeconfig.cache
+C:\Users\nnh24\workspace02\design-patterns\AbstractFactory\obj\Debug\net8.0\ref\AbstractFactory.dll
