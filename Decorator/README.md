@@ -8,17 +8,17 @@ Thuộc nhóm các Structural pattern
 ## Cấu trúc
 - **Component:** Định nghĩa một interface chung mà cả đối tượng cơ bản và các decorator đều tuân theo.
 
-- **Concrete Component:** Là đối tượng cơ bản, đối tượng mà chúng ta muốn mở rộng chức năng.
+- **Concrete Component:** Đối tượng cụ thể mà chúng ta muốn mở rộng chức năng.
 
-- **Decorator:** Lớp cơ bản của các decorator, triển khai giao diện Component và giữ một tham chiếu đến đối tượng Component mà nó bọc.
-
-- **Concrete Decorator:** Là các lớp decorator cụ thể, triển khai các chức năng bổ sung bằng cách mở rộng đối tượng Concrete Component.
+- **Decorator:** Base class của các decorator, giữ một tham chiếu đến Component (wrappee) và implement các method của Component.
+ 
+- **Concrete Decorator:** Là các lớp decorator cụ thể, triển khai các chức năng bổ sung cho đối tượng Concrete Component.
 
 ## Example
 ### Problem
 - Giả sử, chúng ta có một hệ thống xử lý việc lưu trữ dữ liệu. Chúng ta muốn thêm các tính năng như **nén** và **mã hóa** dữ liệu trước khi lưu trữ. 
 
-- Decorator cho phép chúng ta xếp chồng các chức năng này một cách linh hoạt mà không cần thay đổi cấu trúc ban đầu của nguồn dữ liệu.
+- **Decorator** cho phép chúng ta xếp chồng các chức năng này một cách linh hoạt mà không cần thay đổi cấu trúc ban đầu của nguồn dữ liệu.
 
 ### Thiết kế class
 - **Component:** *IDataSource interface*
