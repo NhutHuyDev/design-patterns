@@ -1,7 +1,7 @@
 # Strategy
 Thuộc nhóm các Behavioral pattern
 ## Overview
-- **Strategy pattern** cho phép định nghĩa một **họ các thuật toán**, đóng gói mỗi thuật toán trong một lớp riêng, và có thể thay thế các lớp này cho nhau trong quá trình thực thi.
+- **Strategy** cho phép định nghĩa một **họ các thuật toán**, đóng gói mỗi thuật toán trong một lớp riêng, và có thể thay thế các lớp này cho nhau trong quá trình thực thi.
 - Mẫu này tạo ra sự linh hoạt và tách biệt mã nguồn của chương trình chính khỏi các chi tiết triển khai của các thuật toán, cho phép chuyển đổi giữa các hành vi khác nhau.
 
 ## Cấu trúc

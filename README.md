@@ -2,7 +2,7 @@
 Main reference: https://refactoring.guru/design-patterns
 ## Creational Patterns
 Nhóm này liên quan đến cách thức khởi tạo đối tượng.
-- [Singeton](./)
+- [Singleton](./Singleton/README.md)
 - [Factory Method](./FactoryMethod/README.md)
 - [Abstract Factory](./AbstractFactory/README.md)
 ## Structural Patterns

@@ -1,5 +1,5 @@
 # Abstract Factory 
-Creational pattern
+Thuộc nhóm các Creational pattern
 ## Overview
 - **Abstract Factory** cho phép bạn tạo ra **họ các đối tượng liên quan** mà không cần chỉ rõ lớp cụ thể của chúng.
   
