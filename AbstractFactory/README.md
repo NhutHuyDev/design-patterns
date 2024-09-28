@@ -22,9 +22,8 @@ Thuộc nhóm các Creational pattern
   
 ## Example
 ### Problem
-- Giả sử bạn đang phát triển một hệ thống đồ họa và có hai giao diện đồ họa khác nhau, Windows GUI và Mac GUI. 
-
-- Bạn cần một factory để tạo ra các thành phần đồ họa như button và checkbox, mà tất cả các thành phần đều phải tương thích với nhau (tức là, nếu bạn tạo một Windows button, bạn phải tạo một Windows checkbox để chúng làm việc cùng nhau).
+- Trong ví dụ này, chúng ta có một hệ thống xử lý việc lưu trữ dữ liệu. Chúng ta muốn thêm các tính năng như nén và mã hóa dữ liệu trước khi lưu nó vào một tệp. 
+- Decorator Pattern cho phép chúng ta xếp chồng các chức năng này một cách linh hoạt mà không cần thay đổi chức năng cốt lõi của nguồn dữ liệu.
 
 ### Thiết kế class 
   - **Abstract Factory:** *"GUIFactory" interface*

@@ -12,6 +12,7 @@ class Program
         // Kiểm tra xem cả hai logger có trỏ cùng đến một địa chỉ không
         // Console.WriteLine($"Same instance: {object.ReferenceEquals(logger1, logger2)}");
 
+        // Chú ý: Parallel.For là một phương thức đồng bộ và không hỗ trợ trực tiếp các tác vụ async
         Parallel.For(0, 10, i =>
         {
             Logger logger = Logger.GetInstance();

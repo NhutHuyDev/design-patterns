@@ -28,7 +28,7 @@ public class Logger
         {
             using (StreamWriter writer = new(logFilePath, true))
             {
-                writer.WriteLineAsync($"{DateTime.Now}: {message}");
+                writer.WriteLine($"{DateTime.Now}: {message}");
             }
         }
         Console.WriteLine($"Logged: {message}");
